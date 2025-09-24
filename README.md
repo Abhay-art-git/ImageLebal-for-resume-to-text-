@@ -11,7 +11,4 @@ Automatically detect and classify different sections (Name, Email, Phone, Skills
 - Trained with deep learning models.
 - Easy to extend with new labels and data.
 
----
-
-## 📂 Project Structure
 
