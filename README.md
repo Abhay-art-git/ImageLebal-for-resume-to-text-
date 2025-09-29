@@ -24,7 +24,11 @@ This repository contains a project on **Resume Section Detection**, where the go
   - `json` (to store structured output)  
 
 ---
-  
+
+## ⚙️ How to Run  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/resume-section-detection.git
 
 
 
