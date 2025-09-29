@@ -12,3 +12,4 @@ Automatically detect and classify different sections (Name, Email, Phone, Skills
 - Easy to extend with new labels and data.
 
 
+
